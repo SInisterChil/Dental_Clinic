@@ -62,12 +62,12 @@ const Home = () => {
                 case of emergencies we accept bookings.
               </p>
 
-              <HashLink
+              {/* <HashLink
                 to={"/register"}
                 style={{ textDecoration: "none", color: "#fff" }}
               >
                 <div className="transperent_btn"> Chat with Doctor</div>
-              </HashLink>
+              </HashLink> */}
             </div>
             <div className="basic_info" id="info_02">
               <h2>Best Price Guarantee</h2>

@@ -78,7 +78,7 @@ function LowerFooter() {
             <p data-aos="fade-right">{about_long_des_data.text}</p>
           </div>
         </div>
-        <div className="recent_posts">
+        {/* <div className="recent_posts">
           <h2>Recent Post</h2>
           {contact_recent_data.map((data, index) => {
             return (
@@ -96,7 +96,7 @@ function LowerFooter() {
               </div>
             );
           })}
-        </div>
+        </div> */}
         <div className="footer_menu">
           <div className="wrapper_container_fm">
             <h2>Footer Menu</h2>
@@ -126,8 +126,7 @@ function LowerFooter() {
               data-aos-duration="1000"
             >
               <address>
-                plot no 178, Shop- C13, Sai Sapphire, 180, Sector 20, Ulwe,
-                Maharashtra 410206, India
+              Shop No 4, Geetanjali Apartment, Hutatma Rajguru Chowk, Siddharth Nagar, Bavdhan, Pune, Maharashtra-411021
               </address>
             </div>
             <div className="contact_data">

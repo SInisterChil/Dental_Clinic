@@ -18,9 +18,9 @@ const Navbar = () => {
       <div className="nav-container">
         <div className="logo">
           <HashLink to="/#home">
-            <img src={logo_img} alt="om dental clinic logo" />
+            <img src={logo_img} alt="Advait dental clinic logo" />
           </HashLink>
-          <h2>Dental Clinic</h2>
+          <h2>Advait Dental Clinic</h2>
         </div>
         <div className={isActive ? 'active_links' : 'links'}>
           <div className="MenuItems">

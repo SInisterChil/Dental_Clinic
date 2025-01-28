@@ -21,8 +21,7 @@ const About = () => {
           <div className="about_container">
             <div className="about_infos">
               <p className="about_short_descrp">
-                We’re glad you hand your dental health concerns to our skilled
-                hands.
+                Your Trusted Dental Care Provider
               </p>
               <p className="about_long_descrp">{about_long_des_data.text}</p>
               <div className="about_align_btn">

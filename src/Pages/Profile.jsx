@@ -1,24 +1,15 @@
 import React from "react";
-import profile_one_img from "./images/Profile_images/male_profile_img.png";
 import profile_two_img from "./images/Profile_images/female_profile_img.png";
 import "./Profile.css";
 const Profile = () => {
   const your_profile_details = [
     {
       id: 1,
-      photo: profile_one_img,
-      name: "Dr.Rahul Achare",
-      occupation: "Dental Surgeon BDS",
-      description:
-        "Our clinic's Chief Medical Officer, Dr. Mark Hoffman has been working in this field of medical specialization since 2002. AColumbia medical school graduate, this",
-    },
-    {
-      id: 2,
       photo: profile_two_img,
-      name: "Dr.Komal Achare",
+      name: "Dr.Ashwini Rajmane",
       occupation: "Dental Surgeon BDS",
       description:
-        "Our clinic's Chief Medical Officer, Dr. Mark Hoffman has been working in this field of medical specialization since 2002. AColumbia medical school graduate, this",
+        "Our clinic's Chief Medical Officer, Dr. Ashwini Rajmane has been working in this field of medical specialization since 2012. A Vasant dada Patil medical college graduate.",
     },
   ];
   return (

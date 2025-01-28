@@ -109,7 +109,7 @@ const Register = () => {
           >
             <div className="brand">
               <img src={Logo} alt="logo" />
-              <h1>Om Dental Clinic</h1>
+              <h1>Advait Dental Clinic</h1>
             </div>
             <input
               type="text"

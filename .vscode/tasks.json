@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Start React App",
+        "type": "shell",
+        "command": "npm",
+        "args": ["start"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "presentation": {
+          "reveal": "always",
+          "echo": true,
+          "focus": true,
+          "panel": "shared"
+        }
+      }
+    ]
+  }
+  

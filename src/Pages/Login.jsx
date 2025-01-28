@@ -82,7 +82,7 @@ const Login = () => {
           <form method="POST" className="login_u_form" onSubmit={PostData}>
             <div className="brand">
               <img src={Logo} alt="logo" />
-              <h1>Om Dental Clinic</h1>
+              <h1>Advait Dental Clinic</h1>
             </div>
             <input
               type="text"

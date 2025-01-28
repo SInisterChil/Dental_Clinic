@@ -6,37 +6,37 @@ const Contact = () => {
     {
       id: 1,
       c_day: 'Monday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 2,
       c_day: 'Tuesday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 3,
       c_day: 'Wednesday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 4,
       c_day: 'Thursday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 5,
       c_day: 'Friday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 6,
       c_day: 'Saturday',
-      c_time: '11:00 AM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-09:00 PM',
     },
     {
       id: 7,
       c_day: 'Sunday',
-      c_time: '5:00 PM-9:00 PM',
+      c_time: '10:00 AM-2:00 PM, 5:00 PM-9:00 PM',
     },
   ];
   return (
@@ -53,7 +53,7 @@ const Contact = () => {
                 scrolling="no"
                 marginheight="0"
                 marginwidth="0"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1351.329066057928!2d73.03084553864231!3d18.97784631919385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3d1c70aaf85%3A0x28a4cd68182e4f7e!2sOm%20Dental%20Clinic!5e1!3m2!1sen!2sin!4v1686294084196!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.2692080572897!2d73.77219657416937!3d18.516732869293502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1cef6cd3d55%3A0xe992a45705482383!2sAdvait%20Multispeciality%20Dental%20Clinic!5e0!3m2!1sen!2sin!4v1727104432402!5m2!1sen!2sin"
               ></iframe>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Contact = () => {
             <div className="d_and_c">
               <div className="direction_to_clinic">
                 <a
-                  href="https://www.google.com/maps?ll=18.978293,73.030934&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=2928691504663646078"
+                  href="https://maps.app.goo.gl/9ify5dYz9xeXWRtX6"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -84,7 +84,7 @@ const Contact = () => {
                 </a>
               </div>
               <div className="call_to_clinic">
-                <a href="tel:9892729909">Call Clinic</a>
+                <a href="tel:8669675050">Call Clinic</a>
               </div>
             </div>
           </div>
@@ -98,7 +98,7 @@ const Contact = () => {
             </span>
             2023
             <a href="/" id="clinic_name">
-              Om Dental Clinic.
+              Advait Dental Clinic.
             </a>
             All Rights Reserved
           </p>

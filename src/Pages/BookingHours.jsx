@@ -194,7 +194,7 @@ const BookingHours = () => {
                   <div className="form_for_booking">
                     <div className="brand">
                       <img src={Logo} alt="logo" />
-                      <h1>Om Dental Clinic</h1>
+                      <h1>Advait Dental Clinic</h1>
                     </div>
                     <div className="in__container">
                       <label>Choose Date</label>

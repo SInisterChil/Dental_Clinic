@@ -26,6 +26,11 @@
 }
 .logo h2 {
   font-weight: 500;
+  font-size: 1.5rem; /* Adjust font size as needed */
+  margin-left: 10px; /* Add space between the logo image and the text */
+  display: flex; /* Ensure it aligns properly */
+  align-items: center; /* Center vertically */
+  height: 69px;
 }
 .logo a {
   display: flex;
