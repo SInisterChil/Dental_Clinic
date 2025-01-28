@@ -38,12 +38,12 @@ function LowerFooter() {
     {
       index: 1,
       title: 'Email:',
-      cu_data: ' ghadgekomal51@gmail.com',
+      cu_data: ' advaitdentalclinic1@gmail.com',
     },
     {
       index: 2,
       title: 'Phone:',
-      cu_data: ' 7261922208',
+      cu_data: ' 8669675050',
     },
   ];
 

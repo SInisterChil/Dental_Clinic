@@ -38,11 +38,11 @@ const Navbar = () => {
               Treatments
             </HashLink>
           </div>
-          <div className="MenuItems">
+          {/* <div className="MenuItems">
             <HashLink to="/register" onClick={closeMobileMenu}>
               Register
             </HashLink>
-          </div>
+          </div> */}
           <div className="MenuItems">
             <HashLink to="/#contact-us" onClick={closeMobileMenu}>
               Contact
